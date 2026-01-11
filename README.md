@@ -13,12 +13,12 @@ exportable datasets associated with projects.
 Once you have authenticated, all projects are in view, and on the left
 sidebar, filtering is supported.
 
-[All projects view](https://raw.githubusercontent.com/vjcitn/AnVILHCAR/0658c5f7f212cea634e7858a423bc750e0363f6e/figures/concrete1.jpg)
+![All projects view](https://raw.githubusercontent.com/vjcitn/AnVILHCAR/0658c5f7f212cea634e7858a423bc750e0363f6e/figures/concrete1.jpg)
 
 
 If we select a single project, we have this view:
 
-[Selected project view](https://raw.githubusercontent.com/vjcitn/AnVILHCAR/0658c5f7f212cea634e7858a423bc750e0363f6e/figures/concrete2.jpg)
+![Selected project view](https://raw.githubusercontent.com/vjcitn/AnVILHCAR/0658c5f7f212cea634e7858a423bc750e0363f6e/figures/concrete2.jpg)
 
 Drilling down, we find metadata in the right hand sidebar:
 
@@ -26,7 +26,7 @@ Drilling down, we find metadata in the right hand sidebar:
 
 More text
 
-[concrete4](https://raw.githubusercontent.com/vjcitn/AnVILHCAR/0658c5f7f212cea634e7858a423bc750e0363f6e/figures/concrete4.jpg)
+![concrete4](https://raw.githubusercontent.com/vjcitn/AnVILHCAR/0658c5f7f212cea634e7858a423bc750e0363f6e/figures/concrete4.jpg)
 
 More text
 
