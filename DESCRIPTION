@@ -10,7 +10,7 @@ Authors@R:
 Description: R and Bioconductor support for HCA exports to AnVIL
 Depends: R (>= 4.0.0), tools, utils
 Suggests: knitr, BiocStyle, testthat, rmarkdown
-Imports: AnVILGCP
+Imports: AnVILGCP, shiny, DT
 License: Artistic-2.0
 VignetteBuilder: knitr
 biocViews: Infrastructure
