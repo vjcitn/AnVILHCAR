@@ -10,4 +10,5 @@ exportable datasets associated with projects.
 
 ## Example user journey
 
+![project view](https://raw.githubusercontent.com/vjcitn/AnVILHCAR/345c05e87d3dd8b25d2f648824afa2d13ff069e5/figures/concrete1.jpg)
 
