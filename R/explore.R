@@ -18,6 +18,8 @@
 #' @export
 exploreHCAexport = function() {
  dat = avtables()
+ pro = avtable("projects")
+ prtitle = pro[, "pfb:project_title.items"] |> unlist()
  fi = avtable("files")
  sam = avtable("samples")
  sn = names(sam)
@@ -28,7 +30,10 @@ exploreHCAexport = function() {
  ui = fluidPage(
    sidebarLayout(
     sidebarPanel(
-     helpText("HCA import explorer"), width=2
+     helpText("HCA import explorer"), 
+     helpText("Project title:),
+     helpText(prtitle)
+     width=2
      ),
     mainPanel(
      tabsetPanel(

@@ -1,6 +1,6 @@
 Package: AnVILHCAR
 Title: R and Bioconductor support for HCA exports to AnVIL
-Version: 0.0.1
+Version: 0.0.2
 Authors@R:
     person(given = "Vince",
            family = "Carey",
