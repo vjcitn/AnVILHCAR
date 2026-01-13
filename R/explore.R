@@ -31,7 +31,7 @@ exploreHCAexport = function() {
    sidebarLayout(
     sidebarPanel(
      helpText("HCA import explorer"), 
-     helpText("Project title:),
+     helpText("Project title:"),
      helpText(prtitle)
      width=2
      ),
